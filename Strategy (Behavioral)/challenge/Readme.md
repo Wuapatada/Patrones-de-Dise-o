@@ -31,8 +31,12 @@ public class Main {
     }
 }
 
+```
+
 ### 'PaymentProcessor.java'
 package strategy.challenge;
+
+```java
 
 public class PaymentProcessor {
 
